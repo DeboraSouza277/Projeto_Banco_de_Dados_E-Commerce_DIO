@@ -1,33 +1,15 @@
-DIO_Projeto_de_Banco_de_Dados_E-COMMERCE
+Projeto_de_Banco_de_Dados_Conceitual_E-COMMERCE_DIO
 ========================================
 
 💻Sobre o conteúdo:
 ------------------
-
-Narrativa - Cliente 
-
-- O client pode se cadastrar no site com seu CPF ou CNPJ
-
-- O enderelo do cliente irá determinar o valor do frete
-
-- Um cliente pode comprar mais de um pedido. Este tem um perído de carencia de devolução do produto
-
-Narrativa - Pedido
-
-- O pedido são criados por clientes e possuem informações de compra, endereço e status da entrega
-
-- Um produto ou mais compõem o pedido
-
-- O pedido pode ser cancelado
-
-Narrativa - 
-
-
+O projeto será sobre um banco de dados conceitual de um e-commerce que tem como problematica replicar e refinar o modelo.
 
 👩‍🔧 Desafios de Projeto:
 --------------------------
 
-“Refine o modelo apresentado acrescentando os seguintes pontos”
+
+Reaplicar e melhorar o modelo de banco de dados conceitual de e-commercce apresentado acrescentando os seguintes pontos:
 
 ✔Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 
@@ -37,5 +19,18 @@ Narrativa -
 
 
 
-👩‍💻 Resultados:
+## 👩‍💻 Resultados:
+
+![imagem](https://github.com/DeboraSouza277/Projeto_Banco_de_Dados_E-Commerce_DIO/blob/main/Banco_Dados_Conceitual_E-commerce.png)
+
+
+
+
+
 -------------------------
+🧰 Ferramentas Utilizadas:
+
+MySQL Workbench
+
+
+
